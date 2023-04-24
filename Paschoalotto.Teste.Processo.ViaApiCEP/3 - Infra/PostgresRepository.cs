@@ -9,7 +9,7 @@ namespace _3___Infra
 {
     public class PostgresRepository
     {
-        public string connString = "Host=10.20.11.131;Username=bvcartao-user;Password=QEf2PP39hp;Database=postgres";
+        public string connString = "Host=Localhost;Username=admin;Password=admin;Database=postgres";
 
         public void GenericConnection(string query)
         {
