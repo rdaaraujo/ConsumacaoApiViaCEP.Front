@@ -1,0 +1,12 @@
+C:\Users\radaaraujo\source\repos\BrasilAPI\BrasilAPI.Models\bin\Debug\net6.0\BrasilAPI.Models.deps.json
+C:\Users\radaaraujo\source\repos\BrasilAPI\BrasilAPI.Models\bin\Debug\net6.0\BrasilAPI.Models.dll
+C:\Users\radaaraujo\source\repos\BrasilAPI\BrasilAPI.Models\bin\Debug\net6.0\BrasilAPI.Models.pdb
+C:\Users\radaaraujo\source\repos\BrasilAPI\BrasilAPI.Models\obj\Debug\net6.0\BrasilAPI.Models.csproj.AssemblyReference.cache
+C:\Users\radaaraujo\source\repos\BrasilAPI\BrasilAPI.Models\obj\Debug\net6.0\BrasilAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radaaraujo\source\repos\BrasilAPI\BrasilAPI.Models\obj\Debug\net6.0\BrasilAPI.Models.AssemblyInfoInputs.cache
+C:\Users\radaaraujo\source\repos\BrasilAPI\BrasilAPI.Models\obj\Debug\net6.0\BrasilAPI.Models.AssemblyInfo.cs
+C:\Users\radaaraujo\source\repos\BrasilAPI\BrasilAPI.Models\obj\Debug\net6.0\BrasilAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\radaaraujo\source\repos\BrasilAPI\BrasilAPI.Models\obj\Debug\net6.0\BrasilAPI.Models.dll
+C:\Users\radaaraujo\source\repos\BrasilAPI\BrasilAPI.Models\obj\Debug\net6.0\refint\BrasilAPI.Models.dll
+C:\Users\radaaraujo\source\repos\BrasilAPI\BrasilAPI.Models\obj\Debug\net6.0\BrasilAPI.Models.pdb
+C:\Users\radaaraujo\source\repos\BrasilAPI\BrasilAPI.Models\obj\Debug\net6.0\ref\BrasilAPI.Models.dll

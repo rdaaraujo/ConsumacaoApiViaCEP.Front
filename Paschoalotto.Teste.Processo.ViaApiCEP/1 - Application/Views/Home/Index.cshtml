@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Página Inicial";
+}
+
+<div class="text-center">
+
+    <h1 class="display-4">Busca CEP</h1>
+    <form method="post" action="/Home/Privacy">
+        <label for="cepValor"></label>
+        <input type="text" placeholder="Digite um CEP válido" name="cepValor" id="cepValor" style="width:270px;" />
+        <input type="submit" class="btn btn-secondary btn-sm" value="Buscar" />
+    </form>
+</div>
+<script>
+    $(document).ready(function () {
+        $('#cepValor').mask('00000-000');
+    });
+</script>

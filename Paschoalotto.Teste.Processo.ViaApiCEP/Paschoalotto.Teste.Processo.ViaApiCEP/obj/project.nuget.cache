@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "G8gQ8PXydseozCqkjGf0YSRBdJLX1rK98JIWfzG7/o1TwFN7SWVeDI6V0HBIVQT0c9/FBrT4Dm55ZLVE426mUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\radaaraujo\\source\\repos\\Paschoalotto.Teste.Processo.ViaApiCEP\\Paschoalotto.Teste.Processo.ViaApiCEP\\Paschoalotto.Teste.Processo.ViaApiCEP.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.108.50.195/PSTech/Nuget.Server/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

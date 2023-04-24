@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mva2VgFOK23GqK6lJhR0Cl2xO0RAFukyOWUS+dTiAcO7RIAdwVxNnNadc7fAr4500GPN5N1/HZsATbFrsywNPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\radaaraujo\\source\\repos\\Paschoalotto.Teste.Processo.ViaApiCEP\\4 - Domain\\4 - Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\radaaraujo\\.nuget\\packages\\jquery\\3.6.4\\jquery.3.6.4.nupkg.sha512",
+    "C:\\Users\\radaaraujo\\.nuget\\packages\\jquery.mask\\1.14.16\\jquery.mask.1.14.16.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.108.50.195/PSTech/Nuget.Server/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

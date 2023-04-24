@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "Página Inicial";
+}
+
+<div class="text-center">
+
+    <h1 class="display-4">Busca CEP</h1>
+    <p>Digite um CEP válido:*</p>
+    <form method="post" action="/DadosController/DadosBusca">
+        <label for="cepValor"></label>
+        <input type="text" name="cepValor" id="cepValor" style="width:270px;" /><br>
+        <input type="submit" class="btn btn-secondary" value="Buscar" />
+    </form>
+
+        <br>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">CEP</th>
+                    <th scope="col">Logradouro</th>
+                    <th scope="col">Complemento</th>
+                    <th scope="col">Bairro</th>
+                    <th scope="col">Localidade</th>
+                    <th scope="col">UF</th>
+                    <th scope="col">IBGE</th>
+                    <th scope="col">GIA</th>
+                    <th scope="col">DDD</th>
+                    <th scope="col">SIAFI</th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@ViewBag.cep</td>
+                    <td>@ViewBag.logradouro</td>
+                    <td>@ViewBag.complemento</td>
+                    <td>@ViewBag.bairro</td>
+                    <td>@ViewBag.localidade</td>
+                    <td>@ViewBag.uf</td>
+                    <td>@ViewBag.ibge</td>
+                    <td>@ViewBag.gia</td>
+                    <td>@ViewBag.ddd</td>
+                    <td>@ViewBag.siafi</td>
+                    <td>
+                        <div class="btn-group" role="group">
+                            <a role="button" class="btn btn-primary">Adicionar</a>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+            </table>
+</div>
